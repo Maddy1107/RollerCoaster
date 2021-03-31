@@ -1,0 +1,50 @@
+﻿  Audio.cpp
+  Camera.cpp
+  CatmullRom.cpp
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(321,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(322,57): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(360,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(400,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(440,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(480,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(520,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(560,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(576,67): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(577,71): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(580,68): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(581,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(584,63): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(585,67): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(588,64): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(589,68): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(592,66): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(593,70): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(596,67): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CatmullRom.cpp(597,71): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Cube.cpp
+  Cubemap.cpp
+  Diamond.cpp
+  FaceVertexMesh.cpp
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\FaceVertexMesh.cpp(116,84): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  FrameBufferObject.cpp
+  FreeTypeFont.cpp
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\FreeTypeFont.h(3,10): fatal error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  Game.cpp
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\FreeTypeFont.h(3,10): fatal error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  GameWindow.cpp
+  HeightMapTerrain.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\OpenAssetImportMesh.h(26,10): fatal error C1083: Cannot open include file: 'Importer.hpp': No such file or directory
+  Plane.cpp
+  Shaders.cpp
+  Skybox.cpp
+  CylinderPole.cpp
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CylinderPole.cpp(118,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nilan\Desktop\Game technology\Term 2\Computer Graphics\Coursework\Submissions\Final\RollerCoasterSim\OpenGLTemplate\CylinderPole.cpp(120,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Sphere.cpp
+  Compiling...
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
